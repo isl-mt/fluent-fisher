@@ -1,5 +1,5 @@
 # fluent-fisher
-==================================================================
+
 
 This dataset contains fluent English reference translations re-written with disfluencies removed for the LDC Fisher Spanish dataset. 
 They were collected via Mechanical Turk using the original disfluent translations. 
@@ -12,7 +12,9 @@ The `noids/` directory contains the text only.
 The utterances ids and mappings correspond to those created for the original English translations. 
 Please see [here](https://github.com/joshua-decoder/fisher-callhome-corpus) for more information. 
 
-For a complete description of this corpus, please refer to the following paper. If you use this corpus, please cite in your work:
+
+For a complete description of this corpus, please refer to the following paper.
+If you use this corpus, please cite in your work:
 
     @inproceedings{salesky2018slt,
       Title = {Towards Fluent Translations from Disfluent Speech},
@@ -23,3 +25,13 @@ For a complete description of this corpus, please refer to the following paper. 
       Month = {December}
     }
 
+Initial results translating from disfluent source speech to this fluent data are described here:
+
+    @inproceedings{salesky2019naacl,
+      Title = {Towards Fluent Translations from Disfluent Speech},
+      Author = {Salesky, Elizabeth and Sperber, Matthias and Waibel, Alex},
+      Booktitle = {Proceedings of the North American Chapter for the Association of Computational Linguistics(NAACL)},
+      Year = {2019},
+      Address = {Minneapolis, USA}
+      Month = {June}
+    }
