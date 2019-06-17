@@ -1,0 +1,3 @@
+[submodule "fisher-mapping"]
+	path = fisher-mapping
+	url = https://github.com/esalesky/fisher-mapping.git

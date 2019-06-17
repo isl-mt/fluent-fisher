@@ -10,6 +10,7 @@ The `ids/` directory contains the data with prepended utterance ids and files co
 The `noids/` directory contains the text only. 
 
 The utterances ids and mappings correspond to those created for the original English translations. 
+The submodule [fisher-mapping](https://github.com/esalesky/fisher-mapping.git) maps Fisher speech features to match these translation ids.
 Please see [here](https://github.com/joshua-decoder/fisher-callhome-corpus) for more information. 
 
 
